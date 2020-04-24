@@ -17,4 +17,5 @@ proc-macro = true
 proc-macro2 = "1.0"
 quote = "1.0"
 syn={version="1.0", features = ["full", "extra-traits"]}
-regex-syntax = "0.6"
+regex-automata = "0.1.9"
+lazy_static="1.4.0"
